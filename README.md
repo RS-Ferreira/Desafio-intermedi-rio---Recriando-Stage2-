@@ -27,7 +27,7 @@ Durante este desafio, exploramos os seguintes conceitos:
 
 ## Demonstração
 Aqui está uma prévia do resultado final do desafio desenvolvido
-[Link Demonstração](https://https://rs-ferreira.github.io/Rocket.Sect/)
+[Link Demonstração](https://rs-ferreira.github.io/Rocket.Sect/)
 
 
 ## Contato
